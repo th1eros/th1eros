@@ -1,7 +1,7 @@
 ﻿<div align="center">
-  <h1 style="display: inline-block; background: linear-gradient(90deg, #00f2fe 0%, #4facfe 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.5em;">
-    th1eros.github.io
-  </h1>
+  <a href="https://th1eros.github.io/">
+    <img src="https://img.shields.io/badge/th1eros.github.io-00f2fe?style=for-the-badge&labelColor=00d2ff&color=4facfe" alt="th1eros.github.io" />
+  </a>
   <br />
   <img src="Ban_Th1_Ing.png" width="100%" alt="Thierre Becker Banner">
 </div>
