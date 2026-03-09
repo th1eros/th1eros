@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/th1eros.github.io-00f2fe?style=for-the-badge&labelColor=00d2ff&color=4facfe" alt="th1eros.github.io" />
   </a>
   <br />
-  <img src="Ban_Th1_Ing.png" width="100%" alt="Thierre Becker Banner">
+  <img src="Ban_Th1_V2.png" width="100%" alt="Thierre Becker Banner">
 </div>
 
 # 🛠️ Thierre Becker | Backend .NET in Development
@@ -28,3 +28,4 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
 </div>
+
