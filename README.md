@@ -1,6 +1,6 @@
-﻿<div align="center">
-  <a href="https://th1eros.github.io/">
-    <img src="https://img.shields.io/badge/th1eros.github.io-00f2fe?style=for-the-badge&labelColor=00d2ff&color=4facfe" alt="th1eros.github.io" />
+<div align="center">
+  <a href="https://th1eros.github.io/svsharp-frontend/#/">
+    <img src="https://img.shields.io/badge/SVSharp_Dashboard-00f2fe?style=for-the-badge&labelColor=00d2ff&color=4facfe" alt="Acesse o Dashboard" />
   </a>
   <br />
   <img src="Ban_Th1_V2.png" width="100%" alt="Thierre Becker Banner">
