@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/SVSharp_Dashboard-00f2fe?style=for-the-badge&labelColor=00d2ff&color=4facfe" alt="Acesse o Dashboard" />
   </a>
   <br />
-  <img src="logogit.png" width="100%" alt="Thierre Becker Banner">
+  <img src="secgit.png" width="100%" alt="Thierre Becker Banner">
 </div>
 
 # 🛠️ Thierre Becker | Backend .NET in Development
