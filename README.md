@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://th1eros.github.io">
-    <img src="https://img.shields.io/badge/SVSharp_Dashboard-00f2fe?style=for-the-badge&labelColor=00d2ff&color=4facfe" alt="Acesse o Dashboard" />
+   <img src="https://img.shields.io/badge/SVSharp_Dashboard-434343?style=for-the-badge&labelColor=2b2b2b&logo=google-cloud&logoColor=fff" alt="Acesse o Dashboard" />
   </a>
   <br />
   <img src="secgit.png" width="100%" alt="Thierre Becker Banner">
