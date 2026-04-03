@@ -3,7 +3,7 @@
     <img src="./img/th1e.png" alt="Dominio" width="150px" />  
   </a>
   <a href="https://ab1tat.github.io/papyros/#/login">
-    <img src="./img/abit.png" alt="aBitat Eco" width="150px" />  
+    <img src="./img/aBit.png" alt="aBitat Eco" width="150px" />  
   </a>
   <br><div align="center">
   <br>
@@ -34,11 +34,15 @@
   </a>
 
 
+<div align="left">
+
 ## 🛠️ Engenharia de Soluções & Aprendizado Contínuo
 
-Este ecossistema representa a aplicação prática de conceitos modernos de desenvolvimento. Minha abordagem prioriza a resolução de problemas reais de infraestrutura e a construção de sistemas funcionais, transformando cada desafio técnico em uma etapa de consolidação de conhecimento.
-
 ### 🛰️ Domínio Tecnológico & Integração
+<p>
+Este ecossistema representa a aplicação prática de conceitos modernos de desenvolvimento. Minha abordagem prioriza a resolução de problemas reais de infraestrutura e a construção de sistemas funcionais, transformando cada desafio técnico em uma etapa de consolidação de conhecimento.
+</p>
+
 * **Ecossistema .NET:** Desenvolvimento de serviços robustos com **.NET 8** (Rapsodia) e exploração de interfaces multiplataforma com **.NET MAUI** (Orpheu), focando em performance e experiência do usuário.
 * **Arquitetura Web Moderna:** Implementação de dashboards reativos em **React 18** com **TypeScript**, priorizando a tipagem estrita para reduzir erros em tempo de execução.
 * **Gestão de Dados Relacionais:** Transição estratégica para o **PostgreSQL**, aplicando conceitos de modelagem de dados, escalabilidade e integridade referencial.
@@ -54,9 +58,12 @@ Este ecossistema representa a aplicação prática de conceitos modernos de dese
 * **IA como Alavanca de Produtividade:** Utilização estratégica de Inteligência Artificial para análise de logs complexos, refatoração de código e aceleração da curva de aprendizado em novas stacks.
 * **Documentação Técnica:** Foco na clareza de READMEs e guias técnicos para facilitar a manutenção do conhecimento e o onboarding em projetos complexos.
 
+<br/>
+
 ---
 > **Propósito:** Construir software seguro, estável e escalável, utilizando a tecnologia como ferramenta estratégica para resolver gargalos operacionais e otimizar fluxos de dados.
 
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/company/112507183/admin/dashboard/">
