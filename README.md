@@ -1,72 +1,156 @@
 <div align="center">
+  <br/>
+
   <a href="https://th1eros.github.io">
-    <img src="./img/th1e.png" alt="Dominio" width="150px" />  
+    <img src="./img/th1e.png" height="110" alt="th1eros">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ab1tat.github.io/papyros/#/login">
-    <img src="./img/aBit.png" alt="aBitat Eco" width="150px" />  
+    <img src="./img/aBit.png" height="110" alt="aBitat">
   </a>
-  <br><div align="center">
-  <br>
+  <br/><br/>
+  <h1>Thierre Becker</h1>
   
+  <p>
+    <code>Solutions Engineer</code> &nbsp;·&nbsp;
+    <code>Cybersecurity Track</code> &nbsp;·&nbsp;
+    <code>São Paulo, BR</code>
+  </p>
+
+  <img src="https://img.shields.io/badge/%E2%97%8F%20Online-2ea043?style=flat-square&labelColor=161b22" alt="Status">
+  &nbsp;
+
+
+  <a href="https://th1eros.github.io">
+    <img src="https://img.shields.io/badge/th1eros.io-161b22?style=flat-square&logo=githubpages&logoColor=58a6ff" alt="th1eros.io">
+  </a>
+
+
+  &nbsp;
+  <a href="https://ab1tat.github.io/papyros/#/login">
+    <img src="https://img.shields.io/badge/aBitat-161b22?style=flat-square&logo=githubpages&logoColor=3fb950" alt="aBitat">
+  </a>
+  <br/><br/>
+  <hr/>
+  <br/>
+<br/>
 <div align="center">
-  <a href="https://github.com/ab1tat/rapsodia">
-    <img src="./img/logo_net.png" alt="api" width="55px" />
-  </a>
-    <a href="https://github.com/ab1tat">
-    <img src="./img/sharp.png" alt="Rapsodia" width="35px" />
-  </a>
-    <a href="https://github.com/ab1tat/telemetry">
-    <img src="./img/postgre.png" alt="Postgre" width="45px" />
-  </a>  
-  </a>
-    <a href="https://github.com/ab1tat/papyros">
-    <img src="./img/react.png" alt="Papyros" width="50px" />
-  </a>
-    <a href="https://gemini.google.com/app">
-    <img src="./img/gem.png" alt="Gemini CLI" width=38px" />
-  </a>
-    <a href="https://claude.ai/new">
-    <img src="./img/power.png" alt="Terminal" width="40px" />
-  </a>
-  </a>
-    <a href="https://dashboard.render.com/">
-    <img src="./img/dock.png" alt="Mnemos" width="40px" />
-  </a>
+ 
+<br/>
+ 
+<table>
+  <tr>
+    <td align="center" width="90">
+      <a href="https://github.com/ab1tat/rapsodia">
+        <img src="./img/logo_net.png" width="42" alt=".NET 8"/><br/>
+        <sub><b>.NET 8</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://github.com/ab1tat">
+        <img src="./img/sharp.png" width="32" alt="C#"/><br/>
+        <sub><b>C#</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://github.com/ab1tat/telemetry">
+        <img src="./img/postgre.png" width="38" alt="PostgreSQL"/><br/>
+        <sub><b>PostgreSQL</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://github.com/ab1tat/papyros">
+        <img src="./img/react.png" width="40" alt="React 18"/><br/>
+        <sub><b>React 18</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://dashboard.render.com/">
+        <img src="./img/dock.png" width="36" alt="Docker"/><br/>
+        <sub><b>Docker</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://claude.ai/new">
+        <img src="./img/power.png" width="36" alt="Terminal"/><br/>
+        <sub><b>Terminal</b></sub>
+      </a>
+    </td>
+    <td align="center" width="90">
+      <a href="https://gemini.google.com/app">
+        <img src="./img/gem.png" width="34" alt="Gemini"/><br/>
+        <sub><b>Gemini</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+ 
+<br/>
+ 
+</div>
+DevSecOps
 
+Construo sistemas funcionais com foco em infraestrutura real. Cada projeto é uma etapa deliberada de consolidação técnica, com olhar crescente em **cybersecurity**, **autenticação segura** e **arquiteturas resilientes**.
 
-<div align="left">
+<br/>
 
-## 🛠️ Engenharia de Soluções & Aprendizado Contínuo
+<table>
+  <tr>
+    <td valign="top" width="33%">
 
-### 🛰️ Domínio Tecnológico & Integração
-<p>
-Este ecossistema representa a aplicação prática de conceitos modernos de desenvolvimento. Minha abordagem prioriza a resolução de problemas reais de infraestrutura e a construção de sistemas funcionais, transformando cada desafio técnico em uma etapa de consolidação de conhecimento.
-</p>
+### 🛰️ Sistemas & Backend
 
-* **Ecossistema .NET:** Desenvolvimento de serviços robustos com **.NET 8** (Rapsodia) e exploração de interfaces multiplataforma com **.NET MAUI** (Orpheu), focando em performance e experiência do usuário.
-* **Arquitetura Web Moderna:** Implementação de dashboards reativos em **React 18** com **TypeScript**, priorizando a tipagem estrita para reduzir erros em tempo de execução.
-* **Gestão de Dados Relacionais:** Transição estratégica para o **PostgreSQL**, aplicando conceitos de modelagem de dados, escalabilidade e integridade referencial.
-* **Consumo de APIs:** Desenvolvimento de camadas de serviço para comunicação fluida entre o frontend (Papyros) e o backend, garantindo a entrega eficiente de dados.
+**Ecossistema .NET** centrado em serviços robustos com **.NET 8** (Rapsodia) e interfaces multiplataforma com **.NET MAUI** (Orpheu).
 
-### 🛡️ Práticas de Segurança e Governança
-* **Segurança Aplicada:** Implementação de fluxos de autenticação via **JWT** e práticas de hashing para proteção de identidades e sessões.
-* **Auditoria e Compliance:** Adoção de padrões de auditoria como *Soft Delete* e rastreabilidade de registros (timestamps) como requisitos fundamentais de projeto.
-* **Versionamento Estratégico:** Gestão de repositórios via **Git**, garantindo a rastreabilidade e integridade do histórico de desenvolvimento em ambientes organizacionais.
+**PostgreSQL** como padrão relacional — modelagem, escalabilidade e integridade referencial como requisitos, não opcionais.
 
-### 🔍 Resiliência, Investigação e IA
-* **Troubleshooting de Infraestrutura:** Experiência prática no diagnóstico de falhas críticas de sistema (File System Locks e erros de registro de classe) e estabilização de ambientes de desenvolvimento.
-* **IA como Alavanca de Produtividade:** Utilização estratégica de Inteligência Artificial para análise de logs complexos, refatoração de código e aceleração da curva de aprendizado em novas stacks.
-* **Documentação Técnica:** Foco na clareza de READMEs e guias técnicos para facilitar a manutenção do conhecimento e o onboarding em projetos complexos.
+**APIs RESTful** com camadas de serviço desacopladas, conectando [Papyros](https://ab1tat.github.io/papyros/#/login) ao backend com tipagem estrita via TypeScript.
+
+### 🛡️ Segurança & Governança
+
+**JWT + Hashing** aplicados como padrão de autenticação e proteção de identidades em todos os projetos.
+
+**Soft Delete & Timestamps** como cultura de auditoria — rastreabilidade de registros como requisito fundamental de arquitetura.
+
+**Git Strategy** — versionamento com rastreabilidade histórica e integridade em ambientes organizacionais colaborativos.
+
+### 🔍 Resiliência & IA
+
+**Troubleshooting crítico** — diagnóstico de File System Locks, erros de registro de classe e estabilização de ambientes de produção.
+
+**IA como alavanca** — uso estratégico de Gemini e Claude para análise de logs, refatoração e aceleração em novas stacks.
+
+**Documentação técnica** orientada a onboarding real: READMEs que comunicam, não apenas registram.
+
+## Projetos
+
+| Projeto | Stack | Papel | Status |
+|---|---|---|---|
+| [**Rapsodia**](https://github.com/ab1tat/rapsodia) | `.NET 8` · `C#` · `PostgreSQL` · `JWT` | API Core / Backend | `ativo` |
+| [**Papyros**](https://github.com/ab1tat/papyros) | `React 18` · `TypeScript` | Frontend / Dashboard | `ativo` |
+| **Orpheu** | `.NET MAUI` · `C#` | App Multiplataforma | `em desenvolvimento` |
+| [**Telemetry**](https://github.com/ab1tat/telemetry) | `PostgreSQL` · `Docker` | Observabilidade | `ativo` |
+| [**aBitat**](https://ab1tat.github.io/papyros/#/login) | `.NET` · `React` · `PostgreSQL` | Ecossistema / Startup | `em produção` |
 
 <br/>
 
 ---
-> **Propósito:** Construir software seguro, estável e escalável, utilizando a tecnologia como ferramenta estratégica para resolver gargalos operacionais e otimizar fluxos de dados.
 
-</div>
+<br/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/company/112507183/admin/dashboard/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-  </a>
+
+> *Construir software seguro, estável e escalável —*
+> *usando tecnologia como ferramenta estratégica, não como fim em si mesma.*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/112507183/admin/dashboard/)
+&nbsp;&nbsp;
+[![th1eros](https://img.shields.io/badge/th1eros.io-161b22?style=for-the-badge&logo=githubpages&logoColor=58a6ff)](https://th1eros.github.io)
+&nbsp;&nbsp;
+[![aBitat](https://img.shields.io/badge/aBitat-161b22?style=for-the-badge&logo=githubpages&logoColor=3fb950)](https://ab1tat.github.io/papyros/#/login)
+
+<br/><br/>
+
 </div>
