@@ -5,7 +5,7 @@
     <img src="./img/th1e.png" height="110" alt="th1eros">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ab1tat.github.io/papyros/#/login">
+  <a href="https://th1eros.com/#/login">
     <img src="./img/aBit.png" height="110" alt="aBitat">
   </a>
   <br/><br/>
@@ -27,7 +27,7 @@
 
 
   &nbsp;
-  <a href="https://ab1tat.github.io/papyros/#/login">
+  <a href="https://th1eros.com/#/login">
     <img src="https://img.shields.io/badge/aBitat-161b22?style=flat-square&logo=githubpages&logoColor=3fb950" alt="aBitat">
   </a>
   <br/><br/>
@@ -41,43 +41,43 @@
 <table>
   <tr>
     <td align="center" width="90">
-      <a href="https://github.com/ab1tat/rapsodia">
+      <a href="https://th1eros.com/#/login">
         <img src="./img/logo_net.png" width="42" alt=".NET 8"/><br/>
         <sub><b>.NET 8</b></sub>
       </a>
     </td>
     <td align="center" width="90">
-      <a href="https://github.com/ab1tat">
+      <a href="https://th1eros.com/#/login">
         <img src="./img/sharp.png" width="32" alt="C#"/><br/>
         <sub><b>C#</b></sub>
       </a>
     </td>
     <td align="center" width="90">
-      <a href="https://github.com/ab1tat/telemetry">
+      <a href="https://th1eros.com/#/login">
         <img src="./img/postgre.png" width="38" alt="PostgreSQL"/><br/>
         <sub><b>PostgreSQL</b></sub>
       </a>
     </td>
     <td align="center" width="90">
-      <a href="https://github.com/ab1tat/papyros">
+      <a href="https://th1eros.com/#/login">
         <img src="./img/react.png" width="40" alt="React 18"/><br/>
         <sub><b>React 18</b></sub>
       </a>
     </td>
     <td align="center" width="90">
-      <a href="https://dashboard.render.com/">
+      <a href="https://th1eros.com/#/login">
         <img src="./img/dock.png" width="36" alt="Docker"/><br/>
         <sub><b>Docker</b></sub>
       </a>
     </td>
     <td align="center" width="90">
-      <a href="https://claude.ai/new">
+      <a href="https://th1eros.com/#/login">
         <img src="./img/power.png" width="36" alt="Terminal"/><br/>
         <sub><b>Terminal</b></sub>
       </a>
     </td>
     <td align="center" width="90">
-      <a href="https://gemini.google.com/app">
+      <a href="https://th1eros.com/#/login">
         <img src="./img/gem.png" width="34" alt="Gemini"/><br/>
         <sub><b>Gemini</b></sub>
       </a>
@@ -104,7 +104,7 @@ Construo sistemas funcionais com foco em infraestrutura real. Cada projeto é um
 
 **PostgreSQL** como padrão relacional — modelagem, escalabilidade e integridade referencial como requisitos, não opcionais.
 
-**APIs RESTful** com camadas de serviço desacopladas, conectando [Papyros](https://ab1tat.github.io/papyros/#/login) ao backend com tipagem estrita via TypeScript.
+**APIs RESTful** com camadas de serviço desacopladas, conectando [Papyros](https://th1eros.com/#/login) ao backend com tipagem estrita via TypeScript.
 
 ### 🛡️ Segurança & Governança
 
@@ -126,11 +126,11 @@ Construo sistemas funcionais com foco em infraestrutura real. Cada projeto é um
 
 | Projeto | Stack | Papel | Status |
 |---|---|---|---|
-| [**Rapsodia**](https://github.com/ab1tat/rapsodia) | `.NET 8` · `C#` · `PostgreSQL` · `JWT` | API Core / Backend | `ativo` |
-| [**Papyros**](https://github.com/ab1tat/papyros) | `React 18` · `TypeScript` | Frontend / Dashboard | `ativo` |
+| [**Rapsodia**](https://th1eros.com/#/login) | `.NET 8` · `C#` · `PostgreSQL` · `JWT` | API Core / Backend | `ativo` |
+| [**Papyros**](https://th1eros.com/#/login) | `React 18` · `TypeScript` | Frontend / Dashboard | `ativo` |
 | **Orpheu** | `.NET MAUI` · `C#` | App Multiplataforma | `em desenvolvimento` |
-| [**Telemetry**](https://github.com/ab1tat/telemetry) | `PostgreSQL` · `Docker` | Observabilidade | `ativo` |
-| [**aBitat**](https://ab1tat.github.io/papyros/#/login) | `.NET` · `React` · `PostgreSQL` | Ecossistema / Startup | `em produção` |
+| [**Telemetry**](https://th1eros.com/#/login) | `PostgreSQL` · `Docker` | Observabilidade | `ativo` |
+| [**aBitat**](https://th1eros.com/#/login) | `.NET` · `React` · `PostgreSQL` | Ecossistema / Startup | `em produção` |
 
 <br/>
 
@@ -149,7 +149,7 @@ Construo sistemas funcionais com foco em infraestrutura real. Cada projeto é um
 &nbsp;&nbsp;
 [![th1eros](https://img.shields.io/badge/th1eros.io-161b22?style=for-the-badge&logo=githubpages&logoColor=58a6ff)](https://th1eros.github.io)
 &nbsp;&nbsp;
-[![aBitat](https://img.shields.io/badge/aBitat-161b22?style=for-the-badge&logo=githubpages&logoColor=3fb950)](https://ab1tat.github.io/papyros/#/login)
+[![aBitat](https://img.shields.io/badge/aBitat-161b22?style=for-the-badge&logo=githubpages&logoColor=3fb950)](https://th1eros.com/#/login)
 
 <br/><br/>
 
