@@ -42,7 +42,7 @@
   <tr>
     <td align="center" width="90">
       <a href="https://th1eros.com/#/login">
-        <img src="./img/logo_net.png" width="42" alt=".NET 8"/><br/>
+        <img src="./img/logo_net.png" width="42" alt="ASP.NET"/><br/>
         <sub><b>.NET 8</b></sub>
       </a>
     </td>
@@ -66,19 +66,19 @@
     </td>
     <td align="center" width="90">
       <a href="https://th1eros.com/#/login">
-        <img src="./img/dock.png" width="36" alt="Docker"/><br/>
+        <img src="./img/dock.png" width="36" alt="OCI|Docker"/><br/>
         <sub><b>Docker</b></sub>
       </a>
     </td>
     <td align="center" width="90">
       <a href="https://th1eros.com/#/login">
-        <img src="./img/power.png" width="36" alt="Terminal"/><br/>
+        <img src="./img/power.png" width="36" alt="PowerShell"/><br/>
         <sub><b>Terminal</b></sub>
       </a>
     </td>
     <td align="center" width="90">
       <a href="https://th1eros.com/#/login">
-        <img src="./img/gem.png" width="34" alt="Gemini"/><br/>
+        <img src="./img/gem.png" width="34" alt="GeminiAPI"/><br/>
         <sub><b>Gemini</b></sub>
       </a>
     </td>
