@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/%E2%97%8F%20Disponível%20para%20Contratos-2ea043?style=flat-square" alt="Status">
 </p>
 
-> **Software Engineer | DevSecOps & .NET Ecosystem** > 📍 São Paulo, BR · `Cybersecurity Track` · contact@th1eros.com
+> **Software Engineer | DevSecOps & .NET Ecosystem** > 📍 São Paulo, BR · `Cybersecurity Track`
 
 ---
 
