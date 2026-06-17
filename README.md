@@ -1,156 +1,60 @@
-<div align="center">
-  <br/>
+# Thierre Becker
 
-  <a href="https://th1eros.github.io">
-    <img src="./img/th1e.png" height="110" alt="th1eros">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://th1eros.com/#/login">
-    <img src="./img/aBit.png" height="110" alt="aBitat">
-  </a>
-  <br/><br/>
-  <h1>Thierre Becker</h1>
-  
-  <p>
-    <code>Solutions Engineer</code> &nbsp;·&nbsp;
-    <code>Cybersecurity Track</code> &nbsp;·&nbsp;
-    <code>São Paulo, BR</code>
-  </p>
+<p align="left">
+  <a href="https://www.linkedin.com/company/112507183/admin/dashboard/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://th1eros.github.io"><img src="https://img.shields.io/badge/Portfólio-238636?style=flat-square&logo=githubpages&logoColor=white" alt="th1eros.io"></a>
+  <a href="https://github.com/ab1tat"><img src="https://img.shields.io/badge/Ecosistema_ab1tat-7057ff?style=flat-square&logo=github&logoColor=white" alt="ab1tat"></a>
+  <img src="https://img.shields.io/badge/%E2%97%8F%20Disponível%20para%20Contratos-2ea043?style=flat-square" alt="Status">
+</p>
 
-  <img src="https://img.shields.io/badge/%E2%97%8F%20Online-2ea043?style=flat-square&labelColor=161b22" alt="Status">
-  &nbsp;
-
-
-  <a href="https://th1eros.github.io">
-    <img src="https://img.shields.io/badge/th1eros.io-161b22?style=flat-square&logo=githubpages&logoColor=58a6ff" alt="th1eros.io">
-  </a>
-
-
-  &nbsp;
-  <a href="https://th1eros.com/#/login">
-    <img src="https://img.shields.io/badge/aBitat-161b22?style=flat-square&logo=githubpages&logoColor=3fb950" alt="aBitat">
-  </a>
-  <br/><br/>
-  <hr/>
-  <br/>
-<br/>
-<div align="center">
- 
-<br/>
- 
-<table>
-  <tr>
-    <td align="center" width="90">
-      <a href="https://th1eros.com/#/login">
-        <img src="./img/logo_net.png" width="42" alt="ASP.NET"/><br/>
-        <sub><b>.NET 8</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://th1eros.com/#/login">
-        <img src="./img/sharp.png" width="32" alt="C#"/><br/>
-        <sub><b>C#</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://th1eros.com/#/login">
-        <img src="./img/postgre.png" width="38" alt="PostgreSQL"/><br/>
-        <sub><b>PostgreSQL</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://th1eros.com/#/login">
-        <img src="./img/react.png" width="40" alt="React 18"/><br/>
-        <sub><b>React 18</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://th1eros.com/#/login">
-        <img src="./img/dock.png" width="36" alt="OCI|Docker"/><br/>
-        <sub><b>Docker</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://th1eros.com/#/login">
-        <img src="./img/power.png" width="36" alt="PowerShell"/><br/>
-        <sub><b>Terminal</b></sub>
-      </a>
-    </td>
-    <td align="center" width="90">
-      <a href="https://th1eros.com/#/login">
-        <img src="./img/gem.png" width="34" alt="GeminiAPI"/><br/>
-        <sub><b>Gemini</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
- 
-<br/>
- 
-</div>
-DevSecOps
-
-Construo sistemas funcionais com foco em infraestrutura real. Cada projeto é uma etapa deliberada de consolidação técnica, com olhar crescente em **cybersecurity**, **autenticação segura** e **arquiteturas resilientes**.
-
-<br/>
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-
-### 🛰️ Sistemas & Backend
-
-**Ecossistema .NET** centrado em serviços robustos com **.NET 8** (Rapsodia) e interfaces multiplataforma com **.NET MAUI** (Orpheu).
-
-**PostgreSQL** como padrão relacional — modelagem, escalabilidade e integridade referencial como requisitos, não opcionais.
-
-**APIs RESTful** com camadas de serviço desacopladas, conectando [Papyros](https://th1eros.com/#/login) ao backend com tipagem estrita via TypeScript.
-
-### 🛡️ Segurança & Governança
-
-**JWT + Hashing** aplicados como padrão de autenticação e proteção de identidades em todos os projetos.
-
-**Soft Delete & Timestamps** como cultura de auditoria — rastreabilidade de registros como requisito fundamental de arquitetura.
-
-**Git Strategy** — versionamento com rastreabilidade histórica e integridade em ambientes organizacionais colaborativos.
-
-### 🔍 Resiliência & IA
-
-**Troubleshooting crítico** — diagnóstico de File System Locks, erros de registro de classe e estabilização de ambientes de produção.
-
-**IA como alavanca** — uso estratégico de Gemini e Claude para análise de logs, refatoração e aceleração em novas stacks.
-
-**Documentação técnica** orientada a onboarding real: READMEs que comunicam, não apenas registram.
-
-## Projetos
-
-| Projeto | Stack | Papel | Status |
-|---|---|---|---|
-| [**Rapsodia**](https://th1eros.com/#/login) | `.NET 8` · `C#` · `PostgreSQL` · `JWT` | API Core / Backend | `ativo` |
-| [**Papyros**](https://th1eros.com/#/login) | `React 18` · `TypeScript` | Frontend / Dashboard | `ativo` |
-| **Orpheu** | `.NET MAUI` · `C#` | App Multiplataforma | `em desenvolvimento` |
-| [**Telemetry**](https://th1eros.com/#/login) | `PostgreSQL` · `Docker` | Observabilidade | `ativo` |
-| [**aBitat**](https://th1eros.com/#/login) | `.NET` · `React` · `PostgreSQL` | Ecossistema / Startup | `em produção` |
-
-<br/>
+> **Software Engineer | DevSecOps & .NET Ecosystem** > 📍 São Paulo, BR · `Cybersecurity Track` · contact@th1eros.com
 
 ---
 
-<br/>
+### 🏛️ Engenharia & Arquitetura de Sistemas
 
-<div align="center">
+Engenheiro de Software com foco em sistemas distribuídos de alta resiliência, automação de segurança e infraestrutura em nuvem. Especializado no ecossistema **.NET Core** e práticas de **DevSecOps**, projetando arquiteturas desacopladas prontas para produção e auditorias corporativas rigorosas.
 
-> *Construir software seguro, estável e escalável —*
-> *usando tecnologia como ferramenta estratégica, não como fim em si mesma.*
+* **Padrões Táticos & Design:** Domain-Driven Design (DDD), Ports & Adapters (Hexagonal), Modelos de Atores Concorrentes e Padrão AAA para automação.
+* **Abordagem de Interface:** Desenvolvimento hiper-eficiente orientado a hipertexto (HTMX) e arquiteturas baseadas em componentes nativos de baixo consumo de recursos.
 
-<br/>
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/112507183/admin/dashboard/)
-&nbsp;&nbsp;
-[![th1eros](https://img.shields.io/badge/th1eros.io-161b22?style=for-the-badge&logo=githubpages&logoColor=58a6ff)](https://th1eros.github.io)
-&nbsp;&nbsp;
-[![aBitat](https://img.shields.io/badge/aBitat-161b22?style=for-the-badge&logo=githubpages&logoColor=3fb950)](https://th1eros.com/#/login)
+### 🛠️ Core Stack & Soluções
 
-<br/><br/>
+| Camada | Tecnologia / Competência |
+| :--- | :--- |
+| **Backend & Distribuição** | `.NET 8 (C#)` · `Microsoft Orleans (Virtual Actors)` · `SignalR (Real-time)` · `RESTful Web APIs` |
+| **Frontend & Mobile** | `HTMX 1.9` · `Vanilla JavaScript` · `Web Crypto API (AES-GCM)` · `IndexedDB (Dexie.js)` · `PWA` |
+| **Persistência & Cache** | `Oracle Autonomous DB (OCI)` · `PostgreSQL` · `Redis (Distributed Caching)` · `EF Core` |
+| **Infra & Observabilidade**| `Docker Swarm / Compose` · `OpenTelemetry` · `Grafana` · `Loki / Prometheus` · `Nginx` |
+| **DevSecOps & Testes** | `GitHub Actions (CI/CD)` · `Selenium Headless (ARM64)` · `JUnit / JUnit Jupiter` · `Hardening` |
 
-</div>
+---
+
+### 🛰️ Ecossistema de Projetos (Em Implementação Ativa na OCI)
+
+#### 🌐 [ab1tat](https://github.com/ab1tat) (Ambiente Comercial & Produção MVP)
+Plataforma multi-tenant corporativa para gestão unificada, mitigação de vulnerabilidades e controle de ativos de rede.
+* **Rapsodia Core:** Mecanismo central (Source of Truth) em `.NET 8`, construído sob isolamento rígido de regras de negócio (Hexagonal), concorrência isolada via `Orleans` e telemetria nativa com `OpenTelemetry`.
+* **Rainbow Front:** Interface tática e de alta performance desenvolvida puramente com `HTMX 1.9`, `CSS3 Variables Custom Design System` e microserviços síncronos desacoplados.
+* **Olimpo Vault:** Módulo integrado de segurança física local. PWA instalável offline que utiliza `IndexedDB` e criptografia simétrica `AES-256-GCM` em nível de cliente (`Web Crypto API`) com gerador TOTP nativo.
+
+#### ⚔️ [Malebolge Lab](https://github.com/ab1tat) (Ambiente de Simulação & Warzone)
+Cenário controlado para engenharia reversa de ameaças, validação de segurança defensiva e testes de estresse arquiteturais.
+* **Argus QA Engine:** Engine de automação End-to-End resiliente desenvolvido em `Java 21` e `Selenium WebDriver`. Executado nativamente em modo headless em arquiteturas `ARM64` integradas a pipelines de CI/CD para detecção proativa de falhas estruturais, validação de regras previdenciárias complexas e relatórios de conformidade via criptografia e injeção de segredos em ambiente efêmero.
+
+---
+
+### 📊 Métricas & Atividade
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=th1eros&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=th1eros&layout=compact&theme=tokyonight&hide_border=true&bg_color=161b22&langs_count=4" height="150" alt="Top Languages" />
+</p>
+
+---
+
+<p align="left">
+  <i>"Construir software seguro, estável e escalável — usando tecnologia como ferramenta estratégica, não como fim em si mesma."</i>
+</p>
