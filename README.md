@@ -13,36 +13,21 @@
 
 ### 🏛️ Estrutura Arquitetural & Topologia de Código
 
-+-------------------+-----------------------------------------------------------------------+
-| Estratégia        | Arquitetura / Escopo de Uso                                           |
-+-------------------+-----------------------------------------------------------------------+
-| Single Account    | Repositórios concentrados em uma conta pessoal utilizando prefixos    |
-| + Prefixos        | unificados (ex: `abitat-core`, `abitat-nginx`, `abitat-frontend`).    |
-+-------------------+-----------------------------------------------------------------------+
-| Multi-Account     | Criação de uma conta de usuário dedicada exclusivamente ao ecossistema|
-| Dedicada          | (ex: `@malebolg3`), isolando-a do perfil pessoal principal.           |
-+-------------------+-----------------------------------------------------------------------+
-| GitHub Enterprise | Conta corporativa para gestão centralizada de múltiplas organizações  |
-|                   | e políticas rígidas de compliance (excedente para laboratórios).      |
-+-------------------+-----------------------------------------------------------------------+
+Engenheiro de Software com foco em sistemas distribuídos de alta resiliência, automação de segurança e infraestrutura em nuvem. Especializado no ecossistema **.NET Core** e práticas de **DevSecOps**, projetando arquiteturas desacopladas prontas para produção e auditorias corporativas rigorosas.
+
+* **Padrões Táticos & Design:** Domain-Driven Design (DDD), Ports & Adapters (Hexagonal), Modelos de Atores Concorrentes e Padrão AAA para automação.
+* **Abordagem de Interface:** Desenvolvimento hiper-eficiente orientado a hipertexto (HTMX) e arquiteturas baseadas em componentes nativos de baixo consumo de recursos.
 
 ---
 
 ### 🛠️ Core Stack & Soluções
 
-+----------------------+-----------------------------------------------------------------------------------------+
-| Camada               | Tecnologia / Competência                                                                |
-+----------------------+-----------------------------------------------------------------------------------------+
-| Backend & Distr.     | .NET 8 (C#) · Microsoft Orleans (Virtual Actors) · SignalR (Real-time) · REST Web APIs  |
-+----------------------+-----------------------------------------------------------------------------------------+
-| Frontend & Mobile    | HTMX 1.9 · Vanilla JavaScript · Web Crypto API (AES-GCM) · IndexedDB (Dexie.js) · PWA   |
-+----------------------+-----------------------------------------------------------------------------------------+
-| Persistência & Cache | Supabase (PostgreSQL) · Oracle Autonomous DB (OCI) · Redis (Distributed Cache) · EF Core|
-+----------------------+-----------------------------------------------------------------------------------------+
-| Infra & Observ.      | Docker Swarm / Compose · OpenTelemetry · Grafana · Loki / Prometheus · Nginx            |
-+----------------------+-----------------------------------------------------------------------------------------+
-| DevSecOps & Testes   | GitHub Actions (CI/CD) · Selenium Headless (ARM64) · JUnit / Jupiter · Hardening        |
-+----------------------+-----------------------------------------------------------------------------------------+
+Camada                     Tecnologia / Competência
+Backend & Distr.           .NET 8 (C#) · Microsoft Orleans (Virtual Actors) · SignalR (Real-time) · REST Web APIs
+Frontend & Mobile          HTMX 1.9 · Vanilla JavaScript · Web Crypto API (AES-GCM) · IndexedDB (Dexie.js) · PWA
+Persistência & Cache       Supabase (PostgreSQL) · Oracle Autonomous DB (OCI) · Redis (Distributed Cache) · EF Core
+Infra & Observ.            Docker Swarm / Compose · OpenTelemetry · Grafana · Loki / Prometheus · Nginx
+DevSecOps & Testes         GitHub Actions (CI/CD) · Selenium Headless (ARM64) · JUnit / Jupiter · Hardening
 
 ---
 
